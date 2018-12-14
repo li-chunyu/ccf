@@ -1,18 +1,2 @@
-# Head
-
-## sub-head
-
-papra sep
-blank line
-
-Text _em part_.
-
-list:
-
-* item1
-* item2
-* imte3,[Text](Link)
-
-A [Text](Link), link test
-
-
+10 22 30 
+14 12 16 6 10 2 8 20 18 4 
