@@ -49,6 +49,3 @@ for _ in range(m):
             xor_data = hex(xor_data).upper().split('X')[1]
             print(xor_data)
             continue
-
-
-    
